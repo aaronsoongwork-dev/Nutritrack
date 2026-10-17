@@ -112,9 +112,6 @@ Nutritrack/
 
 `app/src/main/assets/dataset.csv` contains pre-registered patient records: phone number, user ID, sex, and HEIFA (Healthy Eating Index for Australian Adults) scores for each food group, for both male and female scoring. On first launch (and whenever the database version changes) the app imports it into the Room database so users can register against those IDs.
 
-## Screenshots
-
-*[TODO: add screenshots, e.g. `![Home screen](screenshots/home.png)`]*
 
 ## Author
 
